@@ -1,0 +1,20 @@
+td {
+  height: 130px;
+  width: 130px;
+  text-align: center;
+  font-size: 70px;
+  border: 5px solid black;
+  background-color: #f5f7d7;
+}
+
+.tab {
+  margin: auto;
+}
+
+body {
+  background-color: #42f5d4;
+}
+
+.jumbotron {
+  background-color: #90afb0;
+}
